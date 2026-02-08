@@ -34,3 +34,4 @@ Successful transmission and reception of data (0x55) was observed using loopback
 
 ## Author
 Sakshi Pandey
+sakshipan14@gmail.com
