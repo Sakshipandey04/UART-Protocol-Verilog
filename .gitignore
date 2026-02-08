@@ -1,0 +1,8 @@
+.Xil/
+*.runs/
+*.cache/
+*.sim/
+*.jou
+*.log
+*.str
+*.wdb
